@@ -9,7 +9,7 @@
 -----------------------------
 
 ## Pipeline
-### code : Pipeline_DataHazard(x).c
+### code : Pipeline.c
 <img src="./picture/pipeline.png" >
 -----------------------------
 
